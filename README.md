@@ -1,6 +1,6 @@
 # Find Prime Numbers
 # 
-## Single Algorithm to find the prime numbers of a given range.
+## Single Algorithm to find the prime numbers in a given range.
 
 ## Authors
 
