@@ -1,4 +1,4 @@
-# Ruby Linter Capostone Project
+# Find Prime Numbers
 # 
 ## Single Algorithm to find the prime numbers of a given range.
 
